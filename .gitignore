@@ -1,0 +1,30 @@
+# .NET
+bin/
+obj/
+*.userprefs
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Compiled files
+*.dll
+*.exe
+
+# Logs and databases
+*.log
+*.sqlite
+
+# NuGet
+packages/
+
+# Build results
+[Tt]est[Rr]esult*
+[Bb]uild/
+
+# Miscellaneous
+*.DS_Store
+Thumbs.db
